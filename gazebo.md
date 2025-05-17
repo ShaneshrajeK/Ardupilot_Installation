@@ -83,4 +83,4 @@ sudo apt install ros-humble-ros-gz
 
 ---
 
-# Next: [ArduPilot Installation](https://github.com/ShaneshrajeK/Aero_Modelling_Club_Summer_Camp_2025/blob/main/Week_2/ardupilot.md)
+# Next: [ArduPilot Installation](https://github.com/ShaneshrajeK/Ardupilot_Installation/blob/main/ardupilot.md)
