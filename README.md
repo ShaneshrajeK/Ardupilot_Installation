@@ -153,10 +153,6 @@ Create a simple ROS 2 application using Python in which:
 
 ---
 
-# Task: [Task 2.1](https://github.com/ShaneshrajeK/Aero_Modelling_Club_Summer_Camp_2025/blob/main/Week_2/task1.md)
-
----
-
 # Next: [Gazebo Simulator Installation](https://github.com/ShaneshrajeK/Ardupilot_Installation/blob/main/gazebo.md)
 
 ---
