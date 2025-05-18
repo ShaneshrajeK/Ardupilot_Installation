@@ -112,27 +112,6 @@ You should see ROS nodes communicating.
 
 ---
 
-<h1 align="center">🎯 Task 2.1</h1>
-
-### **Problem Statement:**
-
-Create a simple ROS 2 application using Python in which:
-
-1. A **publisher node** continuously publishes the message:
-
-   ```
-   "Hi, My Name is <your_name>."
-   ```
-
-   to a topic named `/greeting` at a 1 Hz frequency.
-
-2. A **subscriber node** subscribes to the `/greeting` topic and performs the following:
-
-   * Displays the message received.
-   * Maintains and displays a running count of how many times the message has been received.
-
----
-
 #### **Expected Output Example:**
 
 ```text
